@@ -1,0 +1,19 @@
+{
+  "name": "postman-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev"
+  },
+  "keywords": [],
+  "author": "Sherief Elsowiny <elsowiny@yahoo.com>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bootstrap": "^5.0.2"
+  },
+  "devDependencies": {
+    "snowpack": "^3.6.2"
+  }
+}
